@@ -1,7 +1,7 @@
 package main
 
 import (
-	"studyGoDemo1/until"
+	"goStudy/until"
 )
 
 func main() {
